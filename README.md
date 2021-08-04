@@ -6,11 +6,11 @@ player health. Similarly, the meteors can deal damage once the player hits them.
 The game progressively gets harder as more and more enemy ships and meteors starts appearning in waves. 
 
 ## Required
--Python 3.7 or later
+- Python 3.7 or later
 
-##How to run
+## How to run
 1. Open terminal and run the following commands
-2. ```cd <projectDirectory>
+2. ```cd <projectDirectory>```
 3. ```git clone https://github.com/gupta-parth/meteor-shooter.git```
 4. ```pip install -r requirements.txt```
 5. ```python3 game.py```
