@@ -13,4 +13,5 @@ The game progressively gets harder as more and more enemy ships and meteors star
 2. ```cd <projectDirectory>```
 3. ```git clone https://github.com/gupta-parth/meteor-shooter.git```
 4. ```pip install -r requirements.txt```
-5. ```python3 game.py```
+5. ```cd meteor-shooter```
+6. ```python3 game.py``` or  ```python game.py```
